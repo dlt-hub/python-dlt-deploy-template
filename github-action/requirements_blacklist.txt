@@ -1,0 +1,5 @@
+# those requirements by default will not be added to github action dependencies
+# the reason is they have conflicting dependencies
+streamlit
+grpcio-status
+pip
